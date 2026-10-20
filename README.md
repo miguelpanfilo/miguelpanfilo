@@ -8,9 +8,13 @@ Me interesa el desarrollo de software, especialmente backend con C#/.NET, y la t
 ## 🛠️ Tecnologías
 
 **Lenguajes:** C# · Java · JavaScript · TypeScript · Python · SQL
+
 **Backend:** .NET · Entity Framework Core · API REST
+
 **Frontend:** Angular · Blazor · HTML/CSS
+
 **Datos y DevOps:** SQL Server · Oracle · Docker · Git · GitHub Actions · Azure
+
 **Prácticas:** TDD · Clean Code · patrones de diseño · Scrum
 
 ## 🚀 Proyectos destacados
